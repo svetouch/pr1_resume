@@ -1,0 +1,20 @@
+.resume-container p{
+    line-height: 0.5; /* Выберите желаемый размер отступа между строками, например, 1.2 */
+  }
+
+.Frontend p, h1,h3,h4{
+    line-height: 0.5;
+}
+.resume-container{
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: left;
+  }
